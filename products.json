@@ -44,7 +44,7 @@
         image:"https://dkstatics-public.digikala.com/digikala-products/7ed37a46aceaefc032c405304049e34cd7dfc91c_1602333633.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_90"
       },
     ]
-  }
+  },
 {
    id:2,
     title:"وسایل برقی",
@@ -82,7 +82,7 @@
         image:"https://dkstatics-public.digikala.com/digikala-products/1c6b3ee0858047ce4af78b4845f966b1e2d8f641_1601545073.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80"
       }
     ]
-  }
+  },
 {
    id:3,
     title:"صوتی و تصویری",
@@ -128,7 +128,7 @@
         image:"https://dkstatics-public.digikala.com/digikala-products/695950.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80"
       },
     ]
-  }
+  },
 {
    id:4,
     title:"ابزار برقی",
