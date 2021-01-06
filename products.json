@@ -1,0 +1,179 @@
+[
+{
+    id:1,
+    title:"گوشی موبایل",
+    products:[
+      {
+        id:11,
+        type:1,
+        name:"Galaxy A31",
+        description:"گوشی موبایل سامسونگ مدل Galaxy A31 SM-A315F/DS دو سیم کارت ظرفیت 128 ",
+        price:6465000,
+        image:"https://dkstatics-public.digikala.com/digikala-products/121560275.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_90"
+      },
+      {
+        id:12,
+        type:1,
+        name:"Galaxy A51",
+        description:"گوشی موبایل سامسونگ مدل Galaxy A51 SM-A515F/DSN دو سیم کارت ظرفیت 64 ",
+        price:7695000,
+        image:"https://dkstatics-public.digikala.com/digikala-products/115598446.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_90"
+      },
+      {
+        id:13,
+        type:1,
+        name:"Redmi Note 8 Pro",
+        description:"گوشی موبایل شیائومی مدل Redmi Note 8 Pro m1906g7G دو سیم‌ کارت ظرفیت 128 گیگابایت ",
+        price:7775000,
+        image:"https://dkstatics-public.digikala.com/digikala-products/114358181.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_90"
+      },
+      {
+        id:14,
+        type:1,
+        name:"iPhone SE",
+        description:"گوشی موبایل اپل مدل iPhone SE 2020 A2275 ظرفیت 128 گیگابایت",
+        price:16990000,
+        image:"https://dkstatics-public.digikala.com/digikala-products/122045219.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_90"
+      },
+      {
+        id:15,
+        type:1,
+        name:"هوآوی Y8p",
+        description:"گوشی موبایل هوآوی مدل Y8p AQM-LX1 دو سیم کارت ظرفیت 128 گیگابایت ",
+        price:5610000,
+        image:"https://dkstatics-public.digikala.com/digikala-products/7ed37a46aceaefc032c405304049e34cd7dfc91c_1602333633.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_90"
+      },
+    ]
+  }
+{
+   id:2,
+    title:"وسایل برقی",
+    products:[
+      {
+        id:13,
+        type:2,
+        name:"جارو برقی LG",
+        description:" جارو برقی ال جی مدل E1392837 دارای اخرین سیستم  و دارای اپلیکیشن کنترل از راه دور ",
+        price:126465000,
+        image:"https://dkstatics-public.digikala.com/digikala-products/4374713.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80"
+      },
+      {
+        id:14,
+        type:2,
+        name:"جارو شارژی بلک اند دکر مدل DVJ320J",
+        description:"گوشی موبایل سامسونگ مدل Galaxy A51 SM-A515F/DSN دو سیم کارت ظرفیت 64 ",
+        price:8695000,
+        image:"https://dkstatics-public.digikala.com/digikala-products/2181010.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80"
+      },
+      {
+        id:15,
+        type:2,
+        name:"سرویس قابلمه 12 پارچه مک استایلر مدل MC-0012",
+        description:"Black And Decker DVJ320J Chargeable Vacuum Cleaner ",
+        price:7775000,
+        image:"https://dkstatics-public-2.digikala.com/digikala-products/110039154.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80"
+      },
+      {
+        id:16,
+        type:2,
+        name:"اتو بخار فوما مدل 2004",
+        description:"اتوبخار مدل e3000 ",
+        price:16990000,
+        image:"https://dkstatics-public.digikala.com/digikala-products/1c6b3ee0858047ce4af78b4845f966b1e2d8f641_1601545073.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80"
+      }
+    ]
+  }
+{
+   id:3,
+    title:"صوتی و تصویری",
+    products:[
+      {
+        id:11,
+        type:3,
+        name:"تلویزیون ال ای دی هوشمند ال جی مدل 65SJ95000GI-TA سایز 65 اینچ",
+        description:"تلویزیون ال ای دی هوشمند ال جی مدل 65SJ95000GI-TA سایز 65 اینچ ",
+        price:6465000,
+        image:"https://dkstatics-public.digikala.com/digikala-products/7561d1e457260e6c587d1d89fde8aec1c39de6f9_1596468190.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80"
+      },
+      {
+        id:12,
+        type:3,
+        name:"گیرنده دیجیتال دنای مدل DVB-T STB964T2",
+        description:"یکی از محبوب‌ترین گیرنده‌های دیجیتال دنای مدل STB964T2 است. این محصول دارای کیفیت تصویر Full HD بوده و گیرنده ای تمام عیار محسوب می‌شو.",
+        price:795000,
+        image:"https://dkstatics-public-2.digikala.com/digikala-products/110967717.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80"
+      },
+      {
+        id:13,
+        type:3,
+        name:"گیرنده دیجیتال دنای مدل DVB-T STB963T2",
+        description:"یکی از محبوب‌ترین گیرنده‌های دیجیتال دنای مدل STB963T2 است. این محصول دارای کیفیت تصویر Full HD بوده و گیرنده ای تمام عیار محسوب می‌شود. ",
+        price:7775000,
+        image:"https://dkstatics-public.digikala.com/digikala-products/110967428.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80"
+      },
+      {
+        id:14,
+        type:3,
+        name:"بخاری برقی طرح شومینه برقی جیسان JISUN مدل F3",
+        description:"بخاری برقی طرح شومینه برقی جیسان JISUN مدل F3",
+        price:16990000,
+        image:"https://dkstatics-public.digikala.com/digikala-products/3998585.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80"
+      },
+      {
+        id:15,
+        type:3,
+        name:"فن هیتر پارس خزر مدل SH2000M",
+        description:"فن هیتر پارس خزر مدل SH2000M",
+        price:560000,
+        image:"https://dkstatics-public.digikala.com/digikala-products/695950.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80"
+      },
+    ]
+  }
+{
+   id:4,
+    title:"ابزار برقی",
+    products:[
+      {
+        id:11,
+        type:4,
+        name:"ابزار همه کاره بوش مدل PMF 220-CE",
+        description:"ابزار همه کاره بوش مدل PMF 220-CE",
+        price:6465000,
+        image:"https://dkstatics-public.digikala.com/digikala-products/1931529.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80"
+      },
+      {
+        id:12,
+        type:4,
+        name:"فنر زن سیم کشی برق راحت مدل 1600",
+        description:"فنر زن سیم کشی برق راحت مدل 1600",
+        price:7695000,
+        image:"https://dkstatics-public.digikala.com/digikala-products/119559637.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80"
+      },
+      {
+        id:13,
+        type:4,
+        name:"ابزار همه کاره بوش مدل GOP 30-28",
+        description:"ابزار همه کاره بوش مدل GOP 30-28",
+        price:7775000,
+        image:"https://dkstatics-public.digikala.com/digikala-products/1995769.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80"
+      },
+      {
+        id:14,
+        type:4,
+        name:"ابزار همه کاره فاین مدل FMT 250 SL Start",
+        description:"ابزار همه کاره فاین مدل FMT 250 SL Start",
+        price:16990000,
+        image:"https://dkstatics-public.digikala.com/digikala-products/2501247.png?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80"
+      },
+      {
+        id:15,
+        type:4,
+        name:"دریل چکشی رونیکس مدل 2211",
+        description:"دریل چکشی رونیکس مدل 2211 ",
+        price:5610000,
+        image:"https://dkstatics-public.digikala.com/digikala-products/121735238.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_80"
+      },
+    ]
+  }
+}  
+]
